@@ -25,3 +25,6 @@
 # Performance + projects:
 
 - projects will be chosen on Sunday and cards will be created and shared on Monday.
+
+# N.B:
+failing to abid these rules results to removal from the organisation.
