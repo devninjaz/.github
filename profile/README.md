@@ -1,6 +1,6 @@
 ## Hi there, Welcome to devninjaz👋
 
-# Rules:
+# Rules for members:
 
 - one hour per day
 - seven days per week
