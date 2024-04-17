@@ -20,11 +20,3 @@
 
 - moderator: a team leader of a sprint to manage the developments of the project.
 - tracker: time keeper that will be making sure that everyone is working on his/ her assigned tasks.
-- tester and reviewer: to test and review the codes.
-
-# Performance + projects:
-
-- projects will be chosen on Sunday and cards will be created and shared on Monday.
-
-# N.B:
-failing to abid these rules results to removal from the organisation.
