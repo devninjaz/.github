@@ -18,5 +18,5 @@
 
 # Structure:
 
-- moderator: a team leader of a sprint to manage the developments of the project.
-- tracker: time keeper that will be making sure that everyone is working on his/ her assigned tasks.
+- moderator: a team leader of a sprint to manage the developments of the project (choosen everyweek).
+- tracker: time keeper that will be making sure that everyone is working on his/ her assigned tasks (choosen everyweek).
